@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="MuniConnect.App/MuniConnect.App.csproj" />
+  <Project Path="MuniConnect.Core/MuniConnect.Core.csproj" />
+  <Project Path="MuniConnect.Tests/MuniConnect.Tests.csproj" />
+</Solution>
